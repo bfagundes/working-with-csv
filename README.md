@@ -1,8 +1,6 @@
-Under construciton
+# Working with CSV
+This repository is a collection of several tests and files I did while learning the basics of working with CSV files in Python.
 
-To build the Environment inside project-root\.env
-pip install virtualenv
-virtualenv .env
-source .env/Scripts/activate
-pip install -r requirements.txt
-pip list
+## Requirements
+- Python 3.x
+- `pandas` library
